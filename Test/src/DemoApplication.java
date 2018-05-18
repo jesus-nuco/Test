@@ -2,7 +2,7 @@
 import org.aion.api.IAionAPI;
 import org.aion.api.type.ApiMsg;
 import org.aion.api.type.BlockDetails;
-//////llll5555rrrr
+
 public class DemoApplication {
 	IAionAPI aionApi = null;
 
